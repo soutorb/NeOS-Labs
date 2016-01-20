@@ -1,0 +1,28 @@
+<Orden xmlns="http://Fresenius.Neos.Lab/XML/Orden.xsd">
+	<MSH Emisor="LAB" Version="" IDMensaje="20151116175512054" Fecha="20151116175512" TipoMsj="ORU_R01" TipoProc="T">  </MSH>
+	<Paciente>
+		<NroHistoriaClinica>ARGBA011111</NroHistoriaClinica>
+		<NroDocumento/>
+	</Paciente>
+	<ID>3197</ID>
+	<Estado>ACEPTADA</Estado>
+	<EstadoCodigo>11</EstadoCodigo>
+	<Muestras>
+		<Muestra>
+			<Codigo>3123-1</Codigo>
+			<Tipo>Amarillo/Rojo</Tipo>
+			<TipoCodigo>AR</TipoCodigo>
+			<FechaExtraccion>2015-12-21T00:00:00</FechaExtraccion>
+			<Motivo />
+			<Estado>ENVIADA</Estado>
+			<EstadoCodigo>5</EstadoCodigo>
+			<Especimen>SER</Especimen>
+			<EspecimenCodigo>SR</EspecimenCodigo>
+			<Tiempo>Pre-diálisis</Tiempo>
+			<TiempoCodigo>PR</TiempoCodigo>
+			<CodigoMaterial>AR-SR-PR</CodigoMaterial>
+			<Determinaciones>
+			</Determinaciones>
+		</Muestra>
+	</Muestras>
+</Orden>
